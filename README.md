@@ -68,8 +68,8 @@ I’m a **Computer Science undergraduate from Malabe, Sri Lanka**, focused on bu
 
 ## GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManithMss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManithMss&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManithMss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManithMss&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
