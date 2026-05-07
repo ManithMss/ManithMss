@@ -66,25 +66,6 @@ I’m a **Computer Science undergraduate from Malabe, Sri Lanka**, focused on bu
 
 ---
 
-## Featured projects
-### Offline Whisper Subtitle Generator (Python)
-**Offline subtitle generation** on Windows with a guided setup, local caching, model download helpers, and FFmpeg integration.  
-Repo: https://github.com/ManithMss/Offline-Whisper-Subtitle-Generator
-
-### Playwright Testing Tool Demo (TypeScript / Node.js)
-End-to-end automation demo with **Allure reports**, screenshots/videos, and cross-browser testing.  
-Repo: https://github.com/ManithMss/juice-bar-playwright-automation
-
-### Parallel Matrix Multiplication (C / OpenMP / MPI / CUDA)
-Parallel computing assignment implementing serial, OpenMP, MPI, and CUDA versions for performance comparison.  
-Repo: https://github.com/ManithMss/PC_Assignment3
-
-### Portfolio Website (React + Azure)
-Responsive portfolio built with React and deployed via Azure Static Web Apps + GitHub Actions.  
-Repo: https://github.com/ManithMss/Portfolio
-
----
-
 ## GitHub stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManithMss&show_icons=true&theme=tokyonight&hide_border=true" />
